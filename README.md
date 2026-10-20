@@ -40,6 +40,6 @@ Field reference: https://xrechnung.dev/api/#invoice-model. Money is rounded per 
 ## Also from xrechnung.dev
 - **WooCommerce plugin** — e-invoice for every order: https://xrechnung.dev/woocommerce/
 - **Chrome extension** — validate/read e-invoice attachments in the browser: https://xrechnung.dev/chrome/
-- **RapidAPI listing** — same API and quotas with RapidAPI billing in USD (BASIC 10 documents/month free, PRO $19 = 200, ULTRA $40 = 1,000, MEGA $99 = 5,000): https://rapidapi.com/nikolamaksimlab/api/xrechnung-zugferd-e-invoice
+- **RapidAPI listing** — same API and quotas with RapidAPI billing in USD (BASIC 30 documents/month free, PRO $19 = 200, ULTRA $40 = 1,000, MEGA $99 = 5,000): https://rapidapi.com/nikolamaksimlab/api/xrechnung-zugferd-e-invoice
 
 MIT-licensed examples. The API itself is a hosted service; see https://xrechnung.dev/datenschutz.
